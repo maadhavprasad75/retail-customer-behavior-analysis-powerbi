@@ -96,7 +96,7 @@ The dashboard includes:
 
 ## 📊 Dashboard Preview
 
-(Add a clean screenshot here — VERY important)
+<img width="701" height="392" alt="image" src="https://github.com/user-attachments/assets/8447724d-6002-4757-98b7-70ca961487b0" />
 
 ---
 
