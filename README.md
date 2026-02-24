@@ -85,6 +85,17 @@ The dashboard includes:
 
 ---
 
+## 📐 Key Metrics (DAX)
+
+- Total Revenue
+- Total Orders
+- Average Order Value
+- Sales Growth %
+- Channel Contribution %
+- Discount Impact %
+
+---
+
 ## 💡 Business Recommendations
 
 * Focus marketing campaigns on high-performing customer segments
