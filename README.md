@@ -1,4 +1,4 @@
-📊 Business Problem
+#📊 Business Problem
 
 A retail company aims to better understand customer purchasing behavior to improve revenue, customer engagement, and long-term loyalty.
 
@@ -18,7 +18,7 @@ Payment preferences
 
 have created uncertainty in strategic decision-making.
 
-🎯 Objective
+#🎯 Objective
 
 To analyze customer shopping data and generate actionable business insights that help:
 
