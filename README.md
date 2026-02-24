@@ -1,4 +1,4 @@
-#📊 Business Problem
+*📊 Business Problem*
 
 A retail company aims to better understand customer purchasing behavior to improve revenue, customer engagement, and long-term loyalty.
 
